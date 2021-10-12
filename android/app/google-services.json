@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "953374712964",
+    "project_id": "test-f27cd",
+    "storage_bucket": "test-f27cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953374712964:android:05dbd5f89ec2941b0bced1",
+        "android_client_info": {
+          "package_name": "com.sendbird.flutter_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953374712964-qi3lh779od8khjbgjah06ud611po7gnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBusAVBMUARo12znlFD9AeBIrAXo6NQYRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953374712964-qi3lh779od8khjbgjah06ud611po7gnf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
